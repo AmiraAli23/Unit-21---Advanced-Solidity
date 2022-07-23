@@ -27,7 +27,8 @@
 
 To test out the contracts, I used Metamask :
 
-<img width="1253" alt="Screen Shot 2022-07-23 at 5 43 36 PM" src="https://user-images.githubusercontent.com/99091066/180624423-287df6d7-1e26-4d79-8f83-cb063457f610.png">
+<img width="1157" alt="Screen Shot 2022-07-23 at 6 30 41 PM" src="https://user-images.githubusercontent.com/99091066/180625001-cc5d0073-ad23-4eb6-b763-fd1978e1b79b.png">
+
 
 Using `KaseiCoinCrowdsaleDeployer`, i deployed the contract using the name `kasecoin`, symbol `kc`, and used the MetaMask address under the wallet section. Once i hit transact, the metamask notification above appeared, prompting me to confirm the transaction. 
 Once confirmed, the contract appeared under the "deployed contract sectio".
