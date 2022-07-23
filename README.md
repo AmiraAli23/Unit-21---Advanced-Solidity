@@ -31,7 +31,7 @@ To test out the contracts, I used Metamask :
 
 
 Using `KaseiCoinCrowdsaleDeployer`, i deployed the contract using the name `kasecoin`, symbol `kc`, and used the MetaMask address under the wallet section. Once i hit transact, the metamask notification above appeared, prompting me to confirm the transaction. 
-Once confirmed, the contract appeared under the "deployed contract sectio".
+Once confirmed, the contract appeared under the "deployed contract" section.
 
 Under the deployed contracts, the addresses for kasei crowdsale and kasei token are called. The address for kasei crowdsale was copied.
 
