@@ -56,7 +56,7 @@ This prompted metamask to confirm the transaction.
 
 <img width="1261" alt="Screen Shot 2022-07-23 at 5 48 29 PM" src="https://user-images.githubusercontent.com/99091066/180624852-c18cb34e-056d-47e5-8514-cd8e7adf7869.png">
 
-Once the transaction processed, i checked the balances under the KaseiCoin contract to ensure it was accurate.
+Once the transaction processed, i checked the balances under the KaseiCoin contract to ensure it was accurate. The total supply is 114 wei. I also entered the address of the metamask account and pulled the balance - which is also 114 wei.
 
 <img width="1252" alt="Screen Shot 2022-07-23 at 5 49 15 PM" src="https://user-images.githubusercontent.com/99091066/180624862-2236b4c4-8418-4c90-b448-573cd7048600.png">
 
